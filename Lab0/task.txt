@@ -6,6 +6,21 @@ $ git commit --amend
 [master 03c84fd] Adding Task 6
  Date: Mon Jul 1 20:44:31 2019 -0500
  1 file changed, 2 insertions(+)
-
-
 the stuff above is what came out after I ran the comand
+
+task 7
+------
+I used the following command and got the following output 
+'David@DESKTOP-HR44SLG MINGW64 ~/Desktop/fzf (master)
+$ git log --all --grep='--no-mouse'
+commit c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168
+Author: Junegunn Choi <junegunn.c@gmail.com>
+Date:   Thu Jan 30 15:41:44 2014 +0900
+
+    Add --no-mouse option to replace FZF_MOUSE_ENABLED
+
+
+I looked up 'how to find a specific commit message in git'and used the command offered on the following website 'https://stackoverflow.com/questions/7124914/how-to-search-a-git-repository-by-commit-message'
+ 
+task 8
+------
