@@ -1,3 +1,11 @@
 Task 6
 ------
 https://help.github.com/en/articles/changing-a-commit-message
+I looked up -how to edit a git commit message- and then i found the link above. I then used the command git commit --amend
+$ git commit --amend
+[master 03c84fd] Adding Task 6
+ Date: Mon Jul 1 20:44:31 2019 -0500
+ 1 file changed, 2 insertions(+)
+
+
+the stuff above is what came out after I ran the comand
