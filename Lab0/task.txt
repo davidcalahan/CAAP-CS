@@ -24,3 +24,18 @@ I looked up 'how to find a specific commit message in git'and used the command o
  
 task 8
 ------
+'tamales deliciosos' was my added content
+In order to find it after I added it I googled 'how to show recently changes in git' and found a this source 'https://stackoverflow.com/questions/12359504/get-last-changes-of-file-with-git' which suggested that I use the command git diff
+Once I used that command I got the following output-warning: LF will be replaced by CRLF in Lab0/README.txt.
+The file will have its original line endings in your working directory
+diff --git a/Lab0/README.txt b/Lab0/README.txt
+index ad3c585..d73a5fc 100644
+--- a/Lab0/README.txt
++++ b/Lab0/README.txt
+@@ -1,3 +1,4 @@
+ CAAP - Introduction to Softward Developement
+ Git is pretty cool
+ Hopefully our last change....
++tamales deliciosos
+
+then I used get checkout to get rid of my changes
