@@ -37,5 +37,9 @@ index ad3c585..d73a5fc 100644
  Git is pretty cool
  Hopefully our last change....
 +tamales deliciosos
-
 then I used get checkout to get rid of my changes
+task 9
+------
+I just used rm mistake.txt to remove the file but keep the history. I didn't use any online sources for this because you taught us how to us rm in our first lab
+ 
+task 10
