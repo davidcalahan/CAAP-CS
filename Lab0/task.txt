@@ -43,3 +43,4 @@ task 9
 I just used rm mistake.txt to remove the file but keep the history. I didn't use any online sources for this because you taught us how to us rm in our first lab
  
 task 10
+I used git revert and I got the command from this website - https://git-scm.com/docs/git-revert
